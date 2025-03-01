@@ -18,3 +18,5 @@ After the questions,of quiz are over, the score board is displayed at the last. 
 
 #Output
 ![Image](https://github.com/user-attachments/assets/6d62285b-3e29-4c14-b1ea-9741423da6ca)
+
+![Image](https://github.com/user-attachments/assets/243e1f51-1a11-48f7-9263-66fbbe458738)
